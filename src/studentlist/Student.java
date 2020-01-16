@@ -1,7 +1,7 @@
 package studentlist;
 
 /**
- * This class represents a student
+ * This class represents a student vddf
  *
  * @author Paul Bonenfant
  */
